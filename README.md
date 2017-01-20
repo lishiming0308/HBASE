@@ -1,2 +1,2 @@
 # HBASE
-C# HBASE Thrift
+C# HBASE Thrift2实现GET、PUT、DELETE、SCAN
